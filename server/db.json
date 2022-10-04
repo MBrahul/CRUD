@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "Berlin",
+      "email": "berlin@gmail.com",
+      "phonenumber": 1224324,
+      "password": 3432
+    },
+    {
+      "id": 2,
+      "name": "The professor",
+      "email": "Alvaro@gmail.com",
+      "phonenumber": 1224324,
+      "password": 3432
+    },
+    {
+      "id": 3,
+      "name": "Helsinki",
+      "email": "Darko@gmail.com",
+      "phonenumber": 1224324,
+      "password": 3432
+    },
+    {
+      "id": 4,
+      "name": "Rio",
+      "email": "hacker@gmail.com",
+      "phonenumber": 1224324,
+      "password": 3432
+    }
+  ]
+}
